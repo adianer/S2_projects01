@@ -1,5 +1,5 @@
 
-
+//werwerwerewr
 public class Dog extends Pet{
         private String strain;
         public  Dog(String name,String strain){
